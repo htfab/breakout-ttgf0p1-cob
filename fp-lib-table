@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "cob")(type "KiCad")(uri "${KIPRJMOD}/cob.pretty")(options "")(descr ""))
+)
