@@ -10920,6 +10920,9 @@
 				)
 			)
 		)
+		(attr board_only exclude_from_pos_files exclude_from_bom allow_missing_courtyard
+			dnp
+		)
 		(fp_circle
 			(center 2.17 2.12)
 			(end 2.25044 2.12)
